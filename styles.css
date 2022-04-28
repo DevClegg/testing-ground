@@ -1,0 +1,20 @@
+button {
+  height: 100px;
+  width: 200px;
+  border-style: double;
+  border-width: thick;
+  font-size: 1.5rem;
+  background-color: cyan;
+}
+
+.altColour {
+  background-color: red;
+}
+
+#emailInput{
+  background-color: green;
+}
+
+.visible {
+  visibility: visible;
+}
